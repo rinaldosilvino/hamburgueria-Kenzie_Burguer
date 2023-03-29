@@ -39,6 +39,5 @@ yarn start
 # Deploy do projeto
 ```
 https://react-entrega-s1-hamburgueria-da-kenzie-rinaldosilvino.vercel.app/
-https://react-entrega-s1-hamburgueria-da-kenzie-rinaldosilvi-7uqv8nb7t.vercel.app/
 ```
 
