@@ -9,7 +9,7 @@ O projeto representa uma aplicação de e-commerce de fast food, onde é possív
 
 # Clone do projeto
 ```
-git clone git@github.com:rinaldosilvino/m6-sprint3-fullstack-cadastro_de_contactses.git
+git clone git@github.com:rinaldosilvino/hamburgueria-Kenzie_Burguer-Frontend.git
 ```
 
 # Tecnologias utilizadas
